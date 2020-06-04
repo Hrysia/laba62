@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Date": "2020-02-03T00:00:00",
+    "BookOut": 3,
+    "BookIn": 9,
+    "Name": "Harry",
+    "Adress": "USA"
+  },
+  {
+    "Date": "2020-05-05T00:00:00",
+    "BookOut": 65,
+    "BookIn": 89,
+    "Name": "Monday",
+    "Adress": "USA"
+  },
+  {
+    "Date": "2020-02-27T00:00:00",
+    "BookOut": 12,
+    "BookIn": 55,
+    "Name": "Tuesday",
+    "Adress": "USA"
+  }
+]
